@@ -1,0 +1,20 @@
+D:\vs code\ResWander\ResWander\bin\Debug\ResWander.exe.config
+D:\vs code\ResWander\ResWander\bin\Debug\ResWander.exe
+D:\vs code\ResWander\ResWander\bin\Debug\ResWander.pdb
+D:\vs code\ResWander\ResWander\obj\Debug\ResWander.csprojAssemblyReference.cache
+D:\vs code\ResWander\ResWander\obj\Debug\ResWander.Form1.resources
+D:\vs code\ResWander\ResWander\obj\Debug\ResWander.Properties.Resources.resources
+D:\vs code\ResWander\ResWander\obj\Debug\ResWander.csproj.GenerateResource.cache
+D:\vs code\ResWander\ResWander\obj\Debug\ResWander.csproj.CoreCompileInputs.cache
+D:\vs code\ResWander\ResWander\obj\Debug\ResWander.exe
+D:\vs code\ResWander\ResWander\obj\Debug\ResWander.pdb
+C:\Users\Administrator\Desktop\ResWander\ResWander\bin\Debug\ResWander.exe.config
+C:\Users\Administrator\Desktop\ResWander\ResWander\bin\Debug\ResWander.exe
+C:\Users\Administrator\Desktop\ResWander\ResWander\bin\Debug\ResWander.pdb
+C:\Users\Administrator\Desktop\ResWander\ResWander\obj\Debug\ResWander.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ResWander\ResWander\obj\Debug\ResWander.Form1.resources
+C:\Users\Administrator\Desktop\ResWander\ResWander\obj\Debug\ResWander.Form2.resources
+C:\Users\Administrator\Desktop\ResWander\ResWander\obj\Debug\ResWander.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ResWander\ResWander\obj\Debug\ResWander.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ResWander\ResWander\obj\Debug\ResWander.exe
+C:\Users\Administrator\Desktop\ResWander\ResWander\obj\Debug\ResWander.pdb
